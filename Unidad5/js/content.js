@@ -8,10 +8,10 @@
  *  edita  content.json  y corré el generador.
  * ===========================================================================
  *
- *  contentSha256: 514d6f6c
- *  generatedAt:   2026-11-05T05:59:05.204Z
+ *  contentSha256: 0dfd77af
+ *  generatedAt:   2026-11-05T15:51:04.636Z
  */
-window.OVA_CONTENT_META = { contentSha256: "514d6f6c", generatedAt: "2026-11-05T05:59:05.204Z" };
+window.OVA_CONTENT_META = { contentSha256: "0dfd77af", generatedAt: "2026-11-05T15:51:04.637Z" };
 window.OVA_CONTENT = {
   "courseTitle": "Participación, diálogo social y fortalecimiento del tejido productivo rural y urbano",
   "unitCode": "Unidad 5",
@@ -129,7 +129,7 @@ window.OVA_CONTENT = {
       "featuredImageAlt": "Enfermera orientando a adultos mayores en su hogar",
       "modalImage": "assets/modal1.jpg",
       "modalImageAlt": "Enfermera acompañando a un adulto mayor con caminador",
-      "youtubeUrl": "https://www.youtube.com/watch?v=rdxERXxKPfw"
+      "youtubeUrl": "https://www.youtube.com/watch?v=qwFOAEcRiJQ"
     },
     {
       "id": "03",
