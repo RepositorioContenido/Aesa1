@@ -1,0 +1,507 @@
+/**
+ * ===========================================================================
+ *  ARCHIVO GENERADO - NO EDITAR A MANO
+ * ===========================================================================
+ *  Fuente de verdad: content.json     Generador: ./generar-content.command
+ *
+ *  Para cambiar contenido (imagenes, titulos, slides, botones, links),
+ *  edita  content.json  y corré el generador.
+ * ===========================================================================
+ *
+ *  contentSha256: 8fd159bf
+ *  generatedAt:   2026-11-05T06:10:15.440Z
+ */
+window.OVA_CONTENT_META = { contentSha256: "8fd159bf", generatedAt: "2026-11-05T06:10:15.440Z" };
+window.OVA_CONTENT = {
+  "courseTitle": "Gestión del riesgo infantil con herramientas AIEPI",
+  "unitCode": "Unidad 3",
+  "branding": {
+    "pageTitle": "OVA SENA • Unidad 3",
+    "portadaImage": "assets/portada.jpg",
+    "logoLeft": "assets/log_foe.png",
+    "logoLeftWhite": "assets/log_foe_blanco.png",
+    "logoLeftAlt": "Logo Formación Continua Especializada",
+    "logoRight": "assets/Logo_aesa_color.png",
+    "logoRightWhite": "assets/Logo_aesa_blanco.png",
+    "logoRightAlt": "Logos SENA y AESA",
+    "popupLogoLeft": "assets/25anos.png",
+    "popupLogoLeftAlt": "Más de 25 años",
+    "popupLogoRight": "assets/Hashtag_logo.png",
+    "popupLogoRightAlt": "#FormaciónContinua",
+    "footerNotice": "Las acciones de formación ejecutadas en el marco de la convocatoria DSNFT - 0001 - FCE - 2026 son gratuitas para los trabajadores beneficiarios"
+  },
+  "resources": [
+    {
+      "id": "01",
+      "number": "01",
+      "code": "Reflexión sobre el Reto",
+      "codeHighlight": "Reto",
+      "label": "Unidad 3",
+      "typeLabel": "Reflexión sobre el reto",
+      "shortTitle": "Reflexión del reto",
+      "twoLineTitle": "Reflexión<br>del&nbsp;reto",
+      "icon": "assets/icons/reto.png",
+      "featuredImage": "assets/btn1.webp",
+      "featuredImageAlt": "Gestante en una teleconsulta acompañada por una profesional de salud",
+      "modalImage": "assets/modal1.jpg",
+      "modalImageAlt": "Médica sonriente en un área de atención",
+      "slides": [
+        {
+          "id": "slide-1",
+          "type": "featured",
+          "tabTitle": "Propósito",
+          "tabNum": "01",
+          "badge": null,
+          "category": null,
+          "showFeaturedBadge": false,
+          "title": "Unidad 3. Gestión del riesgo infantil con herramientas AIEPI",
+          "paragraph": "Proteger sin perder el seguimiento",
+          "featuredTitle": "Propósito",
+          "icon": "assets/unidad3.png",
+          "text": "Activar la experiencia del trabajador, identificar una decisión inicial y conectarla con herramientas que resuelven el reto central."
+        },
+        {
+          "id": "slide-2",
+          "type": "text",
+          "tabTitle": "Retomar el reto",
+          "tabNum": "02",
+          "badge": null,
+          "title": "1. Retomar el reto",
+          "icon": "assets/1.retomar.png",
+          "paragraph": null,
+          "highlightQuestion": "Una alerta abre una pregunta. No demuestra por sí sola el resultado.",
+          "paragraphs": [
+            "En el Hospital Horizonte de los Ríos se identificaron niñas y niños con señales de alerta nutricional y control no documentado. La dirección debe transformar estas señales en una intervención con responsables y resultados verificables dentro de un plazo de 90 días. Esta unidad ayuda a resolver una parte específica del problema."
+          ],
+          "image": "assets/retomar_u3.jpg",
+          "imageAlt": "Enfermera acompañando a una madre con su recién nacido",
+          "imageCaption": ""
+        },
+        {
+          "id": "slide-3",
+          "type": "bento",
+          "variant": "questions",
+          "tabTitle": "Activar la reflexión",
+          "tabNum": "03",
+          "badge": null,
+          "title": "2. Activar la reflexión",
+          "paragraph": "Lo invitamos a responder las siguientes preguntas.",
+          "icon": "assets/2.Actividad_reflexiva.png",
+          "boxes": [
+            {
+              "desc": "¿Una nota sobre alerta nutricional garantiza que se produjo una valoración clínica y un seguimiento?",
+              "span": "col-2"
+            },
+            {
+              "desc": "¿Cómo organizaría la respuesta si aparecen simultáneamente señales de sufrimiento emocional o posible violencia?",
+              "span": "col-2"
+            }
+          ]
+        },
+        {
+          "id": "slide-4",
+          "type": "text",
+          "tabTitle": "Tomar posición inicial",
+          "tabNum": "04",
+          "badge": null,
+          "title": "3. Tomar posición inicial",
+          "icon": "assets/3.toma_decisiones.png",
+          "paragraph": null,
+          "highlightLead": "Una niña tiene alerta nutricional y un control no registrado. Un cuidador expresa preocupación por su conducta.",
+          "highlightQuestion": "¿Intentaría resolverlo con una llamada de recordatorio o coordinaría primero una valoración y un seguimiento seguro? Fundamente su postura.",
+          "paragraphs": [
+            "Formule para sí una hipótesis breve. Al finalizar la unidad, contrástela con lo aprendido; no requiere entrega ni calificación."
+          ]
+        },
+        {
+          "id": "slide-5",
+          "type": "bento",
+          "tabTitle": "Conectar con la unidad",
+          "tabNum": "05",
+          "badge": null,
+          "title": "4. Conectar con la unidad",
+          "paragraph": null,
+          "icon": "assets/4.conectar.png",
+          "boxes": [
+            {
+              "desc": "El estudio de caso permite organizar una respuesta a las alertas de riesgo infantil: valoración según protocolos, orientación al cuidador y seguimiento documentado. Los mapas conceptuales ayudan a relacionar señales de alerta, decisiones, roles y rutas de protección, sin confundir falta de registro con ausencia de atención ni vulnerar la confidencialidad.",
+              "span": "col-2"
+            },
+            {
+              "desc": "Actividades de autoformación: AP · Estudio de caso  |  AT · Mapas conceptuales",
+              "span": "col-2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "02",
+      "number": "02",
+      "code": "Video conceptual",
+      "label": "Unidad 3",
+      "typeLabel": "Video conceptual",
+      "shortTitle": "Video conceptual",
+      "twoLineTitle": "Video<br>conceptual",
+      "icon": "assets/icons/video.png",
+      "featuredImage": "assets/btn2.webp",
+      "featuredImageAlt": "Profesional de salud orientando a una gestante con una tableta",
+      "modalImage": "assets/modal1.jpg",
+      "modalImageAlt": "Médica sonriente en un área de atención",
+      "youtubeUrl": "https://www.youtube.com/watch?v=N1JmNoxGEYg"
+    },
+    {
+      "id": "03",
+      "number": "03",
+      "code": "Actividad teórica",
+      "label": "Unidad 3.",
+      "typeLabel": "Actividad teórica",
+      "hideResourceTitle": true,
+      "shortTitle": "Actividad teórica",
+      "twoLineTitle": "Actividad<br>teórica",
+      "icon": "assets/icons/Act_teorica.png",
+      "featuredImage": "assets/btn3.webp",
+      "featuredImageAlt": "Profesional de salud orientando a una gestante y su acompañante",
+      "modalImage": "assets/modal2.jpg",
+      "modalImageAlt": "Médico reflexionando en un centro de monitoreo",
+      "slides": [
+        {
+          "id": "r3-slide-1",
+          "type": "text",
+          "variant": "cta-hero",
+          "tabTitle": "Actividad",
+          "tabNum": "01",
+          "hideHeader": true,
+          "heroIcon": "assets/icons/Act_teorica.png",
+          "icon": "assets/icons/Act_teorica.png",
+          "kicker": "MAPA CONCEPTUAL",
+          "headline": "De la alerta infantil a la continuidad segura del cuidado",
+          "paragraphs": [
+            "Explore los conceptos que le permitirán fortalecer sus conocimientos.",
+            "Dé clic en el botón para comenzar."
+          ],
+          "actionUrl": "https://lms.eduvirtualaesa.com/mod/quiz/view.php?id=108",
+          "actionText": "Ir a la actividad"
+        }
+      ]
+    },
+    {
+      "id": "04",
+      "number": "04",
+      "code": "Actividad práctica",
+      "label": "Unidad 3.",
+      "typeLabel": "Actividad práctica",
+      "hideResourceTitle": true,
+      "shortTitle": "Actividad práctica",
+      "twoLineTitle": "Actividad<br>práctica",
+      "icon": "assets/icons/practica.png",
+      "featuredImage": "assets/btn4.webp",
+      "featuredImageAlt": "Promotora de salud orientando a familias con niñas y niños en un espacio comunitario",
+      "modalImage": "assets/modal3.jpg",
+      "modalImageAlt": "Médico y enfermera revisando información frente a una pantalla",
+      "slides": [
+        {
+          "id": "r4-slide-1",
+          "type": "text",
+          "variant": "cta-hero",
+          "tabTitle": "Actividad",
+          "tabNum": "01",
+          "hideHeader": true,
+          "heroIcon": "assets/icons/practica.png",
+          "icon": "assets/icons/practica.png",
+          "kicker": "ESTUDIO DE CASO",
+          "headline": "Alerta infantil, registro incompleto y sospecha de violencia",
+          "paragraphs": [
+            "¡Es momento de aplicar lo aprendido!",
+            "Dé clic en el botón y ponga a prueba sus conocimientos."
+          ],
+          "actionUrl": "https://lms.eduvirtualaesa.com/mod/quiz/view.php?id=109",
+          "actionText": "Ir a la actividad"
+        }
+      ]
+    },
+    {
+      "id": "05",
+      "number": "05",
+      "code": "Unidad 3. Gestión del riesgo infantil con herramientas AIEPI",
+      "label": "Unidad 3",
+      "typeLabel": "Podcast: pasos para la acción",
+      "shortTitle": "Podcast de acción",
+      "twoLineTitle": "Podcast<br>de&nbsp;acción",
+      "icon": "assets/icons/podcast.png",
+      "featuredImage": "assets/btn5.webp",
+      "featuredImageAlt": "Profesional de salud acompañando a adultos mayores en una teleconsulta",
+      "modalImage": "assets/modal4.jpg",
+      "modalImageAlt": "Equipo de salud revisando información en una tableta",
+      "slides": [
+        {
+          "id": "slide-8",
+          "type": "podcast",
+          "tabTitle": "Podcast",
+          "tabNum": "01",
+          "badge": "AUDIO",
+          "icon": "assets/icons/podcast.png",
+          "title": "Propósito del podcast",
+          "playerTitle": "Caso institucional simulado: ESE Horizonte de los Ríos",
+          "paragraph": "Dialogar, a partir de un caso institucional simulado, sobre cómo transformar alertas infantiles en valoración oportuna, orientación al cuidador y seguimiento seguro, según las competencias de cada profesional.",
+          "description": "Podcast: pasos para la acción",
+          "duration": "04:08",
+          "audioSrc": "audios/FCE-AESA-AF1-Podcast-U3.mp3"
+        }
+      ]
+    }
+  ],
+  "credits": {
+    "title": "Créditos",
+    "iconSrc": "assets/Creditos.png",
+    "supportImageSrc": "assets/3.png",
+    "supportImageAlt": "Equipo de salud analizando una matriz de riesgos",
+    "institutionalLines": [
+      "MINISTERIO DEL TRABAJO Y SEGURIDAD SOCIAL",
+      "SERVICIO NACIONAL DE APRENDIZAJE (SENA)",
+      "ASOCIACIÓN DE EMPRESAS SOCIALES DEL ESTADO DE ANTIOQUIA (AESA)"
+    ],
+    "executiveDirector": "",
+    "edition": "octubre/2026",
+    "city": "",
+    "groupHeader": "GRUPO DE TRABAJO",
+    "sections": [
+      {
+        "role": "Coordinación general:",
+        "names": "Fundación Visión Salud"
+      },
+      {
+        "role": "Equipo Técnico Fundación Visión Salud:",
+        "names": "Paola Rueda Casallas"
+      },
+      {
+        "role": "Asesoría y diseño pedagógico:",
+        "names": "Alba Lucía Núñez G. - Samir Balanta Perea"
+      },
+      {
+        "role": "Adecuación y corrección de estilo:",
+        "names": "José Gabriel Ortiz Abella"
+      },
+      {
+        "role": "Ilustraciones y diseño digital:",
+        "names": "Liam Pamela Hermida García - William Gonzáles"
+      },
+      {
+        "role": "Diagramación:",
+        "names": "John Carlos Jiménez Díaz"
+      },
+      {
+        "role": "Realización audiovisual:",
+        "names": "Oscar Javier Rojas Pulido"
+      },
+      {
+        "role": "Director de virtualización y plataforma educativa:",
+        "names": "Julián Andrés Mora Gómez"
+      },
+      {
+        "role": "Derechos de autor y licencias:",
+        "names": "SENA"
+      }
+    ],
+    "legalNotice": "Las acciones de formación ejecutadas en el marco de la convocatoria DSNFT - 0001 - FCE - 2026 son gratuitas para los trabajadores beneficiarios"
+  },
+  "bibliography": {
+    "title": "Bibliografía",
+    "iconSrc": "assets/bibliografia.png",
+    "supportImageSrc": "assets/7.png",
+    "supportImageAlt": "Ingeniero biomédico y enfermera revisando información en una tableta",
+    "heading": "Bibliografía",
+    "description": "Fuentes documentales, lecturas y recursos recomendados para la fundamentación conceptual del curso:",
+    "linkText": "Consultar recurso fuente",
+    "entries": [
+      {
+        "text": "Añel-Rodríguez, R. M., Cambero-Serrano, M. I., & Irurzun-Zuazabal, E. (2015). Análisis de las reclamaciones de pacientes en atención primaria: una oportunidad para mejorar la seguridad clínica. <em>Revista de Calidad Asistencial, 30</em>(5), 220–225.",
+        "url": "https://doi.org/10.1016/j.cali.2015.04.007"
+      },
+      {
+        "text": "Brach, C. (Ed.). (2024). <em>AHRQ health literacy universal precautions toolkit</em> (3.ª ed., publicación de la AHRQ n.º 23-0075). Agency for Healthcare Research and Quality.",
+        "url": "https://www.ahrq.gov/health-literacy/improve/precautions/toolkit.html"
+      },
+      {
+        "text": "Congreso de la República de Colombia. (1993). <em>Ley 100 de 1993, por la cual se crea el Sistema de Seguridad Social Integral y se dictan otras disposiciones</em>.",
+        "url": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=5248"
+      },
+      {
+        "text": "Congreso de la República de Colombia. (2007). <em>Ley 1146 de 2007, por medio de la cual se expiden normas para la prevención de la violencia sexual y atención integral de los niños, niñas y adolescentes abusados sexualmente</em>.",
+        "url": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=25669"
+      },
+      {
+        "text": "Congreso de la República de Colombia. (2011a). <em>Ley 1438 de 2011, por medio de la cual se reforma el Sistema General de Seguridad Social en Salud y se dictan otras disposiciones</em>.",
+        "url": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41355"
+      },
+      {
+        "text": "Congreso de la República de Colombia. (2011b). <em>Ley 1474 de 2011, por la cual se dictan normas orientadas a fortalecer los mecanismos de prevención, investigación y sanción de actos de corrupción y la efectividad del control de la gestión pública</em>.",
+        "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1474_2011.html"
+      },
+      {
+        "text": "Congreso de la República de Colombia. (2012). <em>Ley 1581 de 2012, por la cual se dictan disposiciones generales para la protección de datos personales</em>.",
+        "url": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=49981"
+      },
+      {
+        "text": "Congreso de la República de Colombia. (2015). <em>Ley Estatutaria 1751 de 2015, por medio de la cual se regula el derecho fundamental a la salud y se dictan otras disposiciones</em>.",
+        "url": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=60733"
+      },
+      {
+        "text": "Donabedian, A. (1988). The quality of care: How can it be assessed? <em>JAMA, 260</em>(12), 1743–1748.",
+        "url": "https://doi.org/10.1001/jama.1988.03410120089033"
+      },
+      {
+        "text": "Gillespie, A., & Reader, T. W. (2018). Patient-centered insights: Using health care complaints to reveal hot spots and blind spots in quality and safety. <em>The Milbank Quarterly, 96</em>(3), 530–567.",
+        "url": "https://doi.org/10.1111/1468-0009.12338"
+      },
+      {
+        "text": "Haggerty, J. L., Reid, R. J., Freeman, G. K., Starfield, B. H., Adair, C. E., & McKendry, R. (2003). Continuity of care: A multidisciplinary review. <em>BMJ, 327</em>(7425), 1219–1221.",
+        "url": "https://doi.org/10.1136/bmj.327.7425.1219"
+      },
+      {
+        "text": "Institute for Healthcare Improvement. (s. f.). <em>How to improve</em>.",
+        "url": "https://www.ihi.org/resources/how-to-improve"
+      },
+      {
+        "text": "Levesque, J.-F., Harris, M. F., & Russell, G. (2013). Patient-centred access to health care: Conceptualising access at the interface of health systems and populations. <em>International Journal for Equity in Health, 12</em>, artículo 18.",
+        "url": "https://doi.org/10.1186/1475-9276-12-18"
+      },
+      {
+        "text": "Ministerio de la Protección Social, Dirección General de Salud Pública, & Organización Panamericana de la Salud. (2010). <em>Guía para profesionales y técnicos de los servicios de salud</em> (Componente comunitario de la estrategia AIEPI: guías de prácticas clave para actores sociales, 7).",
+        "url": "https://iris.paho.org/handle/10665.2/28329"
+      },
+      {
+        "text": "Ministerio de Salud. (1999). <em>Resolución 1995 de 1999, por la cual se establecen normas para el manejo de la historia clínica</em>.",
+        "url": "https://www.minsalud.gov.co/Normatividad_Nuevo/RESOLUCI%C3%93N%201995%20DE%201999.pdf"
+      },
+      {
+        "text": "Ministerio de Salud y Protección Social. (2012). <em>Resolución 459 de 2012, por la cual se adopta el Protocolo y Modelo de Atención Integral en Salud para Víctimas de Violencia Sexual</em>.",
+        "url": "https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/DE/DIJ/Resolucion-0459-de-2012.PDF"
+      },
+      {
+        "text": "Ministerio de Salud y Protección Social. (2016). <em>Resolución 3202 de 2016, por la cual se adopta el Manual metodológico para la elaboración e implementación de las Rutas Integrales de Atención en Salud (RIAS)</em>.",
+        "url": "https://www.minsalud.gov.co/salud/publica/ssr/Paginas/Rutas-integrales-de-atencion-en-salud-RIAS.aspx"
+      },
+      {
+        "text": "Ministerio de Salud y Protección Social. (2017). <em>Resolución 2063 de 2017, por la cual se adopta la Política de Participación Social en Salud (PPSS)</em>.",
+        "url": "https://www.minsalud.gov.co/Normatividad_Nuevo/Resoluci%C3%B3n%20No.%202063%20de%202017.pdf"
+      },
+      {
+        "text": "Ministerio de Salud y Protección Social. (2018). <em>Resolución 3280 de 2018, por medio de la cual se adoptan los lineamientos técnicos y operativos de la Ruta Integral de Atención para la Promoción y Mantenimiento de la Salud y de la Ruta Integral de Atención en Salud para la Población Materno Perinatal</em>.",
+        "url": "https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/DE/DIJ/resolucion-3280-de-2018.pdf"
+      },
+      {
+        "text": "Ministerio de Salud y Protección Social. (2019). <em>Resolución 3100 de 2019, por la cual se definen los procedimientos y las condiciones de inscripción de los prestadores de servicios de salud y de habilitación de los servicios de salud</em>.",
+        "url": "https://www.cancilleria.gov.co/normograma/compilacion/docs/resolucion_minsaludps_3100_2019.htm"
+      },
+      {
+        "text": "Ministerio de Salud y Protección Social. (2022). <em>Resolución 1719 de 2022, por la cual se modifica el parágrafo transitorio del artículo 17 de la Resolución 3100 de 2019</em>.",
+        "url": "https://www.minsalud.gov.co/Normatividad_Nuevo/Resoluci%C3%B3n%20No.%201719%20de%202022.pdf"
+      },
+      {
+        "text": "Ministerio de Salud y Protección Social. (2023a). <em>Resolución 544 de 2023, por la cual se modifica la Resolución 3100 de 2019 en aspectos relacionados con la inscripción y habilitación de prestadores</em>.",
+        "url": "https://normograma.supersalud.gov.co/compilacion/docs/resolucion_minsaludps_0544_2023.htm"
+      },
+      {
+        "text": "Ministerio de Salud y Protección Social. (2023b). <em>Resolución 648 de 2023, por la cual se modifica el artículo 26 de la Resolución 3100 de 2019</em>.",
+        "url": "https://www.bogotajuridica.gov.co/sisjur/normas/Norma1.jsp?dt=S&i=140560"
+      },
+      {
+        "text": "Ministerio de Salud y Protección Social. (2025). <em>Resolución 465 de 2025, por la cual se modifican disposiciones de la Resolución 3100 de 2019</em>.",
+        "url": "https://normograma.supersalud.gov.co/compilacion/docs/resolucion_minsaludps_0465_2025.htm"
+      },
+      {
+        "text": "Ministerio de Salud y Protección Social. (2026). <em>Lineamientos para la gestión y administración del Programa Ampliado de Inmunizaciones (PAI) 2026</em> (versión 1).",
+        "url": "https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/PP/PAI/lineamientos-gestion-administracion-pai-2026.pdf"
+      },
+      {
+        "text": "Organización Mundial de la Salud. (2014). <em>Integrated management of childhood illness: Chart booklet</em>.",
+        "url": "https://www.who.int/publications/m/item/integrated-management-of-childhood-illness---chart-booklet-%28march-2014%29"
+      },
+      {
+        "text": "Organización Mundial de la Salud. (2017). <em>Responding to children and adolescents who have been sexually abused: WHO clinical guidelines</em>.",
+        "url": "https://www.who.int/publications/i/item/9789241550147"
+      },
+      {
+        "text": "Organización Mundial de la Salud. (2018). <em>Continuity and coordination of care: A practice brief to support implementation of the WHO Framework on integrated people-centred health services</em>.",
+        "url": "https://www.who.int/publications/i/item/9789241514033"
+      },
+      {
+        "text": "Organización Mundial de la Salud. (2020a). <em>Agenda de inmunización 2030: una estrategia mundial para no dejar a nadie atrás</em>.",
+        "url": "https://www.who.int/es/publications/m/item/immunization-agenda-2030-a-global-strategy-to-leave-no-one-behind"
+      },
+      {
+        "text": "Organización Mundial de la Salud. (2020b). <em>Community engagement: A health promotion guide for universal health coverage in the hands of the people</em>.",
+        "url": "https://www.who.int/publications/i/item/9789240010529"
+      },
+      {
+        "text": "Organización Mundial de la Salud. (2023a). <em>Toolkit for analysis and use of routine health facility data: General principles</em>.",
+        "url": "https://www.who.int/publications/i/item/9789240063938"
+      },
+      {
+        "text": "Organización Mundial de la Salud. (2023b). <em>Toolkit for analysis and use of routine health facility data: Integrated health services analysis—District and facility level</em>.",
+        "url": "https://www.who.int/publications/i/item/9789240060616"
+      },
+      {
+        "text": "Organización Mundial de la Salud. (2026, 15 de julio). <em>Immunization coverage</em>.",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/immunization-coverage"
+      },
+      {
+        "text": "Organización Panamericana de la Salud. (2010). <em>Curso clínico de atención integrada a las enfermedades prevalentes de la infancia (AIEPI) con enfoque en derechos: guía del facilitador</em>.",
+        "url": "https://www.paho.org/es/documentos/curso-clinico-atencion-integrada-enfermedades-prevalentes-infancia-aiepi-con-enfoque"
+      },
+      {
+        "text": "Organización Panamericana de la Salud. (2023, 2 de octubre). <em>Lanzamiento de la estrategia AIEPI</em>.",
+        "url": "https://www.paho.org/es/noticias/2-10-2023-lanzamiento-estrategia-aiepi"
+      },
+      {
+        "text": "Presidencia de la República de Colombia. (1994). <em>Decreto 1757 de 1994, por el cual se organizan y establecen las modalidades y formas de participación social en la prestación de servicios de salud</em>.",
+        "url": "https://normograma.supersalud.gov.co/compilacion/docs/decreto_1757_1994.htm"
+      },
+      {
+        "text": "Superintendencia Nacional de Salud. (2023). <em>Circular Externa 2023151000000010-5 de 2023</em>.",
+        "url": "https://normograma.supersalud.gov.co/compilacion/docs/circular_supersalud_20231510000000105_2023.htm"
+      },
+      {
+        "text": "Wolf, J. A., Niederhauser, V., Marshburn, D., & LaVela, S. L. (2014). Defining patient experience. <em>Patient Experience Journal, 1</em>(1), 7–19.",
+        "url": "https://doi.org/10.35680/2372-0247.1004"
+      }
+    ]
+  },
+  "features": {
+    "creditsPopup": {
+      "enabled": true,
+      "button": "btnDockCredits"
+    },
+    "bibliographyPopup": {
+      "enabled": true,
+      "button": "btnDockBibliography",
+      "showLinks": true
+    },
+    "carouselNav": {
+      "enabled": true,
+      "prevButton": "btnPrevResource",
+      "nextButton": "btnNextResource"
+    },
+    "portadaScroll": {
+      "enabled": true,
+      "button": "btnPortadaScroll"
+    },
+    "enterCarousel": {
+      "enabled": true,
+      "button": "btnEnterCarrusel"
+    },
+    "circularImage": {
+      "enabled": true,
+      "button": "btnCircularImageTrigger"
+    },
+    "modalClose": {
+      "enabled": true,
+      "button": "btnModalClose"
+    },
+    "popupClose": {
+      "enabled": true,
+      "button": "btnAmieClose"
+    }
+  }
+};
